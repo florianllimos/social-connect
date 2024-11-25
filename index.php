@@ -49,8 +49,8 @@
 
 <div class="container-index">
     <div class="index">
-        <h1 class="title">Fakeback</h1>
-        <p class="text">Avec Fakeback, partagez et restez en contact avec votre entourage.</p>
+        <h1 class="title">Social Connect</h1>
+        <p class="text">Avec Social Connect, partagez et restez en contact avec votre entourage.</p>
     </div>
     <form method="POST" class="form-account">
         <div class="bloc-form">
